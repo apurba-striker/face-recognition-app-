@@ -311,9 +311,6 @@ We welcome contributions from everyone! 🚀
 - Open issues for bugs, ideas, or questions.
 - Let's build something amazing together!
 
-If you like this project, consider supporting it:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GEUBX)
 
 ---
 
